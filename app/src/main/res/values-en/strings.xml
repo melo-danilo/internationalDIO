@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InternacionalDIO</string>
+    <string name="string_init">Creating international string in android DIO formation</string>
+</resources>
